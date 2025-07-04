@@ -9,3 +9,4 @@ This is my first time writing markdown so bear with me
 ======================================================
 
 [![Check Style](https://github.com/Uche-chukwu-m/calculator/actions/workflows/automate.yaml/badge.svg?event=push)](https://github.com/Uche-chukwu-m/calculator/actions/workflows/automate.yaml)
+[![Tests](https://github.com/Uche-chukwu-m/calculator/actions/workflows/tests.yaml/badge.svg)](https://github.com/Uche-chukwu-m/calculator/actions/workflows/tests.yaml)
